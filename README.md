@@ -10,9 +10,9 @@ Over 55 million people work in the tech industry and amongst those, over 50% has
 We completed the entire project using Python.
 
 ### Project Description
-Research Question: 
-What is the overall impact of mental health in the tech industry? (specifically in different genders and the progress of comfort level talking about mental health to their supervisors.)
-Specific models & Visualization Techniques:
-Challeges we face:
-Potential Next Steps:
+Research Question:  
+What is the overall impact of mental health in the tech industry? (specifically in different genders and the progress of comfort level talking about mental health to their supervisors.)  
+Specific models & Visualization Techniques:  
+Challeges we face:  
+Potential Next Steps:  
 

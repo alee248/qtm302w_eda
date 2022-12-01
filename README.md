@@ -14,3 +14,5 @@ We decided to focus on the question "What is the overall impact of mental health
   
 ### Instructions for getting started on the repo:  
 All the data files are contained in the main branch of the repository. You can click on the Binder URL above and get started on the jupyter notebook virtual system. You should already be able to see all the graphs we've created and the data cleaning process we've conducted, if you'd like to explore more on your own on the data we have, feel free to download "data.csv" and conduct more EDA or any models on it.  
+  
+Contact Information: Gitika.chaudhry@emory.edu, asuka.li@emory.edu
